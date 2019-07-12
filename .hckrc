@@ -1,0 +1,3 @@
+source ~/.hckrc/.aliasrc
+source ~/.hckrc/.tmux.conf
+source ~/.hckrc/.environmentrc

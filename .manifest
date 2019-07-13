@@ -2,4 +2,3 @@
 source ~/.hckrc/.myconf
 source ~/.hckrc/.bashrc
 tmux source-file ~/.hckrc/.tmux.conf
-

@@ -1,1 +1,3 @@
 # this file is supposed to manage environment variable
+
+export JAVA_HOME=~/java

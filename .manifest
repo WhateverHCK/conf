@@ -1,7 +1,5 @@
-# this file is the manifest of all personal conf files
-
 # vimrc can be cloned from github
-source ~/.hckrc/.aliasrc
-source ~/.hckrc/.environmentrc
+source ~/.hckrc/.myconf
 source ~/.hckrc/.bashrc
 tmux source-file ~/.hckrc/.tmux.conf
+
